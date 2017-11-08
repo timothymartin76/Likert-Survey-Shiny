@@ -97,3 +97,5 @@ center=input$center
 print(p)
 })
 })
+
+runApp()
