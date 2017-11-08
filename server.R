@@ -1,6 +1,6 @@
 
 require(likert)
-require(reshape)
+require(reshape2)
 require(devtools)
 require(shiny)
 mylevels <- c('Strongly Disagree', 'Disagree', 'Neutral', 'Agree', 'Strongly Agree')
